@@ -1,7 +1,5 @@
 # Does Imputation Change the Winner?
-
 This repository contains the data, R code, and output files required to reproduce the analyses presented in the bachelor's thesis:
-
 **Does Imputation Change the Winner? Missing Value Treatment in Alternative Voting Systems Using the France 2022 Electoral Experiment**
 
 ## Repository structure
@@ -37,15 +35,14 @@ Required packages include:
 - kknn
 - ggplot2
 
+
 ## Reproducibility
 
-Running the script
+Run the script
 
-```
 code/imputation_analysis.R
-```
 
-from beginning to end reproduces all tables, figures, and CSV output used in the thesis.
+to reproduce all analyses, figures, and CSV output presented in the thesis.
 
 ## Author
 

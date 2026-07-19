@@ -44,4 +44,4 @@ to reproduce all analyses, figures, and CSV output presented in the thesis.
 ## Author
 
 Isabella Teodori  
-Johannes Gutenberg University Mainz
+Johannes Gutenberg Universität Mainz

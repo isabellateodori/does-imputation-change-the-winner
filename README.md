@@ -20,9 +20,6 @@ output/
 Contains the generated rankings, winner tables, CSV files, and figures.
 
 ```
-thesis/
-```
-Contains the final version of the bachelor's thesis.
 
 ## Software
 
